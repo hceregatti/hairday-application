@@ -90,6 +90,8 @@ hairday-application/
 
 ## 📝 Licença
 
+[Licença MIT](https://github.com/hceregatti/hairday-application/blob/main/LICENSE)
+
 Este projeto é de uso livre para fins educacionais e demonstração.  
 © 2025 Henrique Ceregatti — Todos os direitos reservados.
 
